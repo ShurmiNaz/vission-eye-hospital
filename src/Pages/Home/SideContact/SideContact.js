@@ -4,8 +4,8 @@ import { ChatBubbleOvalLeftEllipsisIcon, EnvelopeIcon, PhoneIcon } from '@heroic
 
 const SideContact = () => {
      return (
-          <main>
-               <div className="hero ml-12 mt-14 py-5 bg-slate-100">
+          <main className='mx-4 md:mx-0'>
+               <div className="hero mb-5 mt-14  bg-slate-100">
                     <div className="hero-content ">
                          <div className="w-full">
                               <h1 className="text-3xl font-semibold text-left">International Contact Us</h1>
@@ -31,7 +31,7 @@ const SideContact = () => {
                     </div>
                </div>
                {/* second section start */}
-               <div className="hero ml-12 mt-12 bg-slate-100">
+               <div className="hero   bg-slate-100">
                     <div className="hero-content ">
 
                          <div className='p-5'>

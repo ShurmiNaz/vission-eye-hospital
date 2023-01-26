@@ -1,47 +1,95 @@
 [
      {
           "id": "63c7d2b6ac90a6860de65ad2",
-          "name": "Specs Removal",
-          "description": "Refractive surgery (also known as specs removal procedures), are methods to correct one spectacle power. These procedures utilize highly precise laser systems to reshape the curvature of your cornea (clear round dome at the front of your eye) in order to focus the light clearly on Retina (light sensitive layer behind the eye). Other types of procedures involve implanting a lens inside your eye over the natural lens or exchanging the natural lens with an artificial lens of appropriate power. Eye7 Chaudary Eye Centre offers all the latest procedures for specs removal such"
+          "name": "Removal of Specs",
+          "description": "Refractive surgery, commonly referred to as treatments to have your glasses removed, is a way to have your spectacle power adjusted. In these operations, your cornea (the transparent circular dome at the front of your eye) is reshaped using very accurate laser devices so that the light is clearly focused on your retina (light sensitive layer behind the eye). Other methods include replacing your natural lens with an artificial one that has the right power or implanting a lens within your eye to replace it. Vision Eye Hospital provides all the most recent methods for removing eyeglasses, including:",
+          "type1": "Contoura Vision",
+          "type2": "Bladeless Femto LASIK",
+          "type3": "ICL (Implantable Collamer Lens)  Spherical & Toric",
+          "type4": "SBK LASIK with Custom Q",
+          "type5": "SBK (Thin Flap) LASIK",
+          "type6": "Refractive Lens Exchange",
+          "type7": "Standard LASIK"
      },
      {
           "id": "63c7d2b6a0913355a1211e72",
-          "name": "Finley Cole",
-          "description": "ENOMEN"
+          "name": "Cataract",
+          "description": "Usually a result of the natural aging process, a cataract is a condition where the natural lens of the eye gets clouded and hard. Sometimes these can also happen to children or young adults. The cataract may need to be removed if it is interfering with your regular activities because of your blurry vision. Surgery is the only procedure that can remove a cataract. Vision Eye Hospital offers all of the most recent techniques for cataract surgery, including:",
+          "type1": "Bladeless Femto Laser Cataract Surgery ",
+          "type2": "Zepto Laser Cataract Surgery",
+          "type3": "Micro Phaco Cataract Surgery",
+          "type4": "Regular Phaco Cataract Surgery"
      },
      {
           "id": "63c7d2b6935fa50975d915ba",
-          "name": "Vincent Lowe",
-          "description": "MIXERS"
+          "name": "External and Corneal Eye Disease",
+          "description": "The clear, dome-shaped tissue protecting the front of the eye is called the cornea. The terms corneal transplant,corneal graft, and penetrating keratoplasty refer to the procedure of replacing a damaged or opaque cornea with a clear, healthy cornea from a donor (PK). Depending on the damaged area of the cornea, there are numerous distinct forms of corneal transplants. In our institution, all kinds of corneal transplants are frequently carried out. A disorder known as keratoconus causes the cornea, the transparent front of the eye, to become thin and protrude outward in the shape of a cone. As a result, the quality of the image that is being projected into the eye is compromised, and the eyesight gradually blurs. Vision Eye Hospital provides all of the most recent therapies for Cornea, including:",
+          "type1": "Corneal Transplant Surgery (PK  Penetrating Keratoplasty)",
+          "type2": "Lamellar Corneal Transplants (DALK, DSEK, DMEK)",
+          "type3": "Corneal Collagen Crosslinking (C3R)",
+          "type4": "Keratoconus Treatment",
+          "type5": "Intacs and Intra Corneal Rings",
+          "type6": "Keratoprosthesis",
+          "type7": "Pterygium surgery"
      },
      {
           "id": "63c7d2b6a2aab7c431b253c4",
-          "name": "Humphrey Hatfield",
-          "description": "APEXTRI"
+          "name": " Glaucoma ",
+          "description": "The eye condition that poses the greatest threat to one's ability to see is glaucoma. It typically shows up as a painless progressive loss of vision. The lost eyesight is irretrievably lost. However, medical or surgical intervention can stop or slow further eyesight loss. It is frequently mistaken for a cataract, which also causes a painless progressive loss of eyesight. The distinction is that a simple operation can completely restore vision loss in cases of cataract. Aqueous humour, a transparent liquid found in our eyes, is continuously created in the eye to bathe and nourish the internal structures. The fluid often exits the eye through drainage canals in a delicate meshwork surrounding the iris (the colored part of the eye that surrounds the pupil). Glaucoma patients experience higher intraocular pressure (IOP), or increased eye pressure, as a result of the fluid failing to drain properly due to some abnormality (or Tension). In the majority of glaucoma cases, the patient does not become aware of the gradual loss of vision until it has become severely compromised. Vision Eye Hospital provides the most recent glaucoma surgery and diagnostic procedures. Vision Eye Hospital provides all of the most recent glaucoma operations, including:",
+          "type1": "Glaucoma Drainage Valves",
+          "type2": "Glaucoma Surgery",
+          "type3": "Glaucoma lasers",
+          "type4": "Visual Fields Analysis",
+          "type5": "Cyclodestructive Procedures"
      },
      {
           "id": "63c7d2b6d540d8fbd22c5027",
-          "name": "Little Church",
-          "description": "TROPOLIS"
+          "name": " Retina",
+          "description": "The retina functions similarly to the camera's film in that it transmits images to the brain for processing. Significant vision abnormalities caused by a damaged retina may become permanent if not treated in a timely manner. One of the top centers for advanced retinal operations and diagnostics on a national and international scale is Eye7. Eye7 provides all of the most recent retinal operations, including:",
+          "type1": "Retinal Detachment Surgery",
+          "type2": "Diabetic Retinopathy Treatment",
+          "type3": "Retinopathy of Prematurity",
+          "type4": "Hypertensive Retinopathy",
+          "type5": "Retina Vascular diseases",
+          "type6": "Retinal holes",
+          "type7": "Retinal and macular degenerations"
      },
      {
           "id": "63c7d2b64ffee83cd5d24e08",
-          "name": "Short Mckenzie",
-          "description": "VALPREAL"
+          "name": "Pediatric ophthalmology and squinting",
+          "description": "Children's eyes are unique from adults' eyes and need unique care. At Eye7, we have a committed group of pediatric ophthalmologists that have received additional training to care for the young patients. We provide all of the most recent procedures in pediatric and squint ophthalmology, including:",
+          "type1": "Squint Surgery",
+          "type2": "Pediatric Eye Surgery ",
+          "type3": "Glaucoma, Cataract",
+          "type4": " cornea, globe, lids, NLD Obstruction, Syringing/ Probing etc"
      },
      {
           "id": "63c7d2b60835012eed1c1039",
-          "name": "Aline Palmer",
-          "description": "SILODYNE"
+          "name": "Oculoplasty and Cosmetic Enhancement",
+          "description": "The fields of oculoplastics, oculoplastic surgery, and eye plastic surgery cover a wide range of operations on the orbit (eye socket), eyelids, tear ducts, and face. The rebuilding of the eye and related components is another topic covered. We provide all the most recent oculoplasty and cosmetic enhancement operations, including:",
+          "type1": "Naso Lacrimal Duct Blockage (NLD Block)",
+          "type2": "Watering Eye Treatment Procedures",
+          "type3": "Ptosis (drooping eyelids)",
+          "type4": "Ectropion / Entropion (out-turned/in-turned)",
+          "type5": "Eyelid Reconstruction Surgery",
+          "type6": "Eye socket reconstruction",
+          "type7": "Orbital implants and artificial eye"
      },
      {
           "id": "63c7d2b60d1565eaf1405d80",
-          "name": "Moran Sheppard",
-          "description": "KRAGGLE"
+          "name": "Eye Injury",
+          "description": "Traumatized eyes require careful preparation for vision and cosmetic repair. To give our patients the finest care possible, we have a team of specialists who are highly skilled in reconstructive and plastic surgery of the eye.",
+          "type1": "Repair and Reconstruction",
+          "type2": "Orbital Fractures",
+          "type3": "Chemical Injuries",
+          "type4": "Globe Injuries",
+          "type5": "Lid Injuries",
+          "type6": "Eye  reconstruction",
+          "type7": "Intra Ocular Foreign Body Removal"
      },
      {
           "id": "63c7d2b6f4500810b533e1c3",
-          "name": "Lara Mcintyre",
-          "description": "TERSANKI"
+          "name": "Neuro-ophthalmology",
+          "description": "In neuro-ophthalmology, the nerves involved in vision and eye movement are studied. The most cutting-edge neuro ophthalmology imaging, diagnostic, and therapeutic techniques are available at Vision Eye Hospital. "
      }
 ]

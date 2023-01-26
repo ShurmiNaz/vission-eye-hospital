@@ -4,7 +4,7 @@ import AboutTopBanner from '../AboutTopBanner/AboutTopBanner';
 
 const AboutUs = () => {
      return (
-          <div>
+          <div className='' >
                <AboutTopBanner />
                <AboutManager />
           </div>

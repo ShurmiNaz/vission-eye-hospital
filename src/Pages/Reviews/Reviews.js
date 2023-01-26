@@ -23,7 +23,6 @@ const Reviews = () => {
                <div className='grid grid-cols-3 gap-4 p-4'>
                     <img className='' src={saimon1} alt="" />
                     <img src={saimon2} alt="" />
-
                     <img src={saimon4} alt="" />
                     <img src={saimon5} alt="" />
                     <img src={saimon6} alt="" />

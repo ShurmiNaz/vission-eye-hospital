@@ -9,10 +9,10 @@ const SpecialtiesBox = () => {
                .then(data => setSpecialties(data))
      }, []);
      return (
-          <div className='my-10' >
+          <div className='my-10 mx-4 md:mx-0' >
 
-               <h1 className='text-3xl mb-6 font-medium text-slate-500 '>Eye Treatments and Specialties</h1>
-               <div className='grid grid-cols-6'>
+               <h1 className='text-2xl  sm:text-3xl mb-6 sm:font-bold text-slate-500 '>Eye Treatments and Specialties</h1>
+               <div className='md:grid md:grid-cols-6'>
                     <div className=' bg-gray-100 col-span-4 p-6'>
                          {
                               specialties.map(specialty => <Specialty
