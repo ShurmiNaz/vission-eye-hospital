@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Main from "../../Layout/Main.js";
 import AboutUs from "../../Pages/AboutUs/Aboutus/AboutUs.js";
-import Appointment from "../../Pages/Appointment/Appointment.js";
+import Gallery from "../../Pages/Gallery/Gallery.js";
 import Home from "../../Pages/Home/Home/Home";
 import Doctors from "../../Pages/OurDoctor/Doctors.js";
 import Reviews from "../../Pages/Reviews/Reviews.js";
@@ -29,8 +29,8 @@ const router = createBrowserRouter([
                     element: <Doctors></Doctors>
                },
                {
-                    path: 'appointment',
-                    element: <Appointment></Appointment>
+                    path: 'gallery',
+                    element: <Gallery></Gallery>
                },
                {
                     path: 'reviews',

@@ -9,23 +9,23 @@ import saimon6 from '../../../src/reviewImage/325601563_1322970988546686_8548792
 const Reviews = () => {
      return (
           <div >
-               <div className="hero  bg-cyan-700">
-                    <div className="hero-content text-center">
+               <div className=" bg-slate-500 flex justify-center py-5 p-3 ">
+                    <div className=" text-center">
                          <div className="max-w-md">
-                              <h1 className="text-5xl text-zinc-100 font-bold">Hello there I am <span className='text-amber-600'> saimon</span></h1>
-                              <p className="py-6 text-zinc-100 text-2xl">One of the most wonderful things in nature is a glance of the eye; it transcends speech; it is the bodily symbol of identity.</p>
-
+                              <h1 className="text-5xl text-zinc-100 font-bold">Hello there I am <span className='text-pink-200'> saimon</span></h1>
+                              <p className="py-6 text-zinc-100 text-2xl">I am totally pleased with the excellent ICL surgery at Vision Eye Hospital.Everyone was very caring and proffesional.
+                                   I especially liked their personal counseling,it made me felt confident and comfortable.</p>
                          </div>
                     </div>
                </div>
 
                {/* ...... */}
-               <div className='grid grid-cols-3 gap-4 p-4'>
-                    <img className='' src={saimon1} alt="" />
-                    <img src={saimon2} alt="" />
-                    <img src={saimon4} alt="" />
-                    <img src={saimon5} alt="" />
-                    <img src={saimon6} alt="" />
+               <div className='container mx-auto flex justify-evenly flex-wrap p-5 bg-stone-400'>
+                    <img className='w-96 h-96 mt-5 ' src={saimon1} alt="" />
+                    <img className='w-96 h-96  mt-5' src={saimon2} alt="" />
+                    <img className='w-96 h-96  mt-5' src={saimon4} alt="" />
+                    <img className='w-96 h-96  mt-5' src={saimon5} alt="" />
+                    <img className='w-96 h-96  mt-5' src={saimon6} alt="" />
 
                </div>
 

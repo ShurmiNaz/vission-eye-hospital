@@ -1,40 +1,29 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import logo from '../../../images/logo1.PNG';
 
 const Footer = () => {
      return (
           <div>
-               <footer className="footer mt-5 p-10 bg-black text-white ">
-                    <div>
-                         <span className="footer-title">Services</span>
-                         <Link className="link link-hover">Branding</Link>
-                         <Link className="link link-hover">Design</Link>
-                         <Link className="link link-hover">Marketing</Link>
-                         <Link className="link link-hover">Advertisement</Link>
+               <footer className="footer mt-5 p-10 bg-teal-900 text-white ">
+                    <div className='w-80'>
+                         <img src={logo} alt="" />
+                         <p>Vision Eye Hospital' has been established with the slogan “Mission for Vision”. Its journey has been commenced to introduce advanced technologies in eye care field of Bangladesh at an affordable cost and ensure skillness, sincerity and devotion ...</p>
                     </div>
                     <div>
-                         <span className="footer-title">Company</span>
+                         <span className="footer-title">Link</span>
+                         <Link className="link link-hover">Our Doctors</Link>
                          <Link className="link link-hover">About us</Link>
-                         <Link className="link link-hover">Contact</Link>
-                         <Link className="link link-hover">Jobs</Link>
-                         <Link className="link link-hover">Press kit</Link>
+                         <Link className="link link-hover">Gellary</Link>
+                         <Link className="link link-hover">Review</Link>
                     </div>
+
                     <div>
-                         <span className="footer-title">Legal</span>
-                         <Link className="link link-hover">Terms of use</Link>
-                         <Link className="link link-hover">Privacy policy</Link>
-                         <Link className="link link-hover">Cookie policy</Link>
-                    </div>
-                    <div>
-                         <span className="footer-title">Newsletter</span>
+                         <span className="footer-title">Contact Us</span>
                          <div className="form-control w-80">
-                              <label className="label">
-                                   <span className="label-text text-white">Enter your email address</span>
-                              </label>
-                              <div className="relative">
-                                   <input type="text" placeholder="username@site.com" className="input input-bordered w-full pr-16" />
-                                   <button className="btn btn-primary absolute top-0 right-0 rounded-l-none">Subscribe</button>
-                              </div>
+                              <p>Phone : +44 7383 161500</p>
+                              <p>Email : visioneyeint@gmail.com</p>
+                              <p>Whatsapp : +44 7383 161500</p>
                          </div>
                     </div>
                </footer>
