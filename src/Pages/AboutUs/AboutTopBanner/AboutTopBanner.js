@@ -7,10 +7,10 @@ const AboutTopBanner = () => {
           <main>
                <section>
                     <div className="hero h-[450PX]" style={{ backgroundImage: `url(${topbanner})` }}>
-                         <div className="hero-overlay bg-opacity-70"></div>
+                         <div className="hero-overlay bg-opacity-60"></div>
                          <div className=" text-center text-neutral-content">
                               <div className="max-w-xl">
-                                   <h1 className="mb-5 text-2xl font-semibold sm:text-5xl sm:font-bold">Best Eye Hospital In World</h1>
+                                   <h1 className="mb-5 text-2xl font-semibold sm:text-5xl sm:font-bold">Best Eye Hospital in the World</h1>
                                    <p className="mb-5 text-base sm:text-xl ">Vision Eye Hospital is one of the best eye hospital in Bangladesh. We provide advanced eye care. We have experienced team members .If you want to find out Best Eye doctors in Bangladesh, chose Vision Eye Hospital. Our doctors are experienced in Glaucoma, Vitro-Retina, Oculoplastic, Uvea, Laser DCR, Phaco, ROP, LASIK, ICL Refractive Surgery, Ocular Oncology, Low Vision, Vision Therapy, and Pediatric Ophthalmology. Vision Eye Hospital-"Mission For Vision".</p>
 
                               </div>

@@ -8,7 +8,7 @@ const SideContact = () => {
                <div className="hero mb-5 mt-14  bg-slate-100">
                     <div className="hero-content ">
                          <div className="w-full">
-                              <h1 className="text-3xl font-semibold text-left">International Contact Us</h1>
+                              <h1 className="text-3xl font-semibold text-left"> Contact Us</h1>
                               <div className='flex items-center justify-left py-3 '>
                                    <PhoneIcon className='h-6 w-6 text-amber-500'></PhoneIcon>
                                    <p className='pl-2  text-xl text-blue-700'>+44 7383 161500</p>

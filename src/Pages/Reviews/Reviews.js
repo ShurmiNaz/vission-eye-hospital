@@ -13,8 +13,8 @@ const Reviews = () => {
                     <div className=" text-center">
                          <div className="max-w-md">
                               <h1 className="text-5xl text-zinc-100 font-bold">Hello there I am <span className='text-pink-200'> saimon</span></h1>
-                              <p className="py-6 text-zinc-100 text-2xl">I am totally pleased with the excellent ICL surgery at Vision Eye Hospital.Everyone was very caring and proffesional.
-                                   I especially liked their personal counseling,it made me felt confident and comfortable.</p>
+                              <p className="py-6 text-zinc-100 text-2xl">I am totally pleased with the excellent ICL surgery at Vision Eye Hospital.Everyone was very caring and professional.
+                                   I especially liked their personal counseling,it made me feel confident and comfortable.</p>
                          </div>
                     </div>
                </div>
